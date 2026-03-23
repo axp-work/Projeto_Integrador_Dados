@@ -42,7 +42,7 @@ Link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 * Revisão e entrega
 
-Transformações Previstas: 
+7 - Transformações Previstas: 
 
 * Tratamento de valores nulos
 
@@ -54,7 +54,7 @@ Transformações Previstas:
 
 * Relacionamento entre tabelas (clientes, pedidos, produtos, pagamentos)
 
-Métricas e Visualizações no Dashboard:
+8 - Métricas e Visualizações no Dashboard:
 
 - Métricas (KPIs):
 
@@ -66,7 +66,7 @@ Métricas e Visualizações no Dashboard:
 
 * Avaliação média dos clientes
 
-Visualizações:
+9 - Visualizações:
 
 * Evolução das vendas ao longo do tempo (gráfico de linhas)
 
@@ -80,7 +80,7 @@ Visualizações:
 
 * Cards com os indicadores principais
 
-Ferramentas Utilizadas: 
+10 - Ferramentas Utilizadas: 
 
 - GitHub: versionamento e documentação
 
